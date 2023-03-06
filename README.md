@@ -5,4 +5,7 @@
 2. Seguindo o processo de HTML Semântico;
 3. Header,Body, Main, Section, Article, Footer;
 
+------------------------------------------------------
+
+linkando o HTML com o CSS colocando a tag "link" no arquivo index.
 
