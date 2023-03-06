@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+a{
+    color: aliceblue;
+}
+
+img{
+    height: 60px;
+    width: 60px;
+    border-radius: 30%;
+}
