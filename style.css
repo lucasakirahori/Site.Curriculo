@@ -1,3 +1,7 @@
+.tudo{
+    margin: 25px;
+    padding: 20px;
+}
 
 body{
     color: aliceblue;
@@ -34,6 +38,35 @@ header img{
 }
 
 section{
-    margin: 85px;
     font-family: Arial, Helvetica, sans-serif;
+}
+ 
+footer img{
+    height: 40px;
+    width: 40px;
+    border-radius: 40%;
+}
+footer .contatos{
+    display: block;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+footer .h3{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer .linkedin{
+    display: flex;
+    justify-content:center;
+    text-align: center;
+}
+
+footer .github{
+    display: flex;
+    justify-content:center;
+    text-align: center;
 }
