@@ -64,28 +64,30 @@ footer img{
     width: 40px;
     border-radius: 40%;
 }
-footer .contatos{
-    display: block;
+
+.caixa{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contatos{
+    height: 25px;
+    width: 100%;
+}
+
+.contatos h3{
+    text-align: center;
+}
+
+.linkedin{
     text-align: center;
     margin-top: 20px;
-    margin-bottom: 10px;
-    font-size: 25px;
 }
 
-footer .contatos{
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-footer .linkedin{
-    display: flex;
-    justify-content:center;
+.github{
     text-align: center;
-}
-
-footer .github{
-    display: flex;
-    justify-content:center;
-    text-align: center;
+    margin-top: 20px;
 }
 
 footer figure:hover{
