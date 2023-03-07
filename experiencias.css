@@ -7,10 +7,19 @@ header a:hover{
     color: green;
 }
 
+header{
+    background-color: cadetblue;
+    border: 3px solid white;
+}
+
 body{
     color: aliceblue;
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    margin: 50px 0px;
 }
 
 ul{
@@ -44,7 +53,12 @@ header img{
 section{
     font-family: Arial, Helvetica, sans-serif;
 }
- 
+
+footer{
+    background-color: darkgoldenrod;
+    border: 3px solid white;
+}
+
 footer img{
     height: 40px;
     width: 40px;
@@ -53,7 +67,7 @@ footer img{
 footer .contatos{
     display: block;
     text-align: center;
-    margin-top: 70px;
+    margin-top: 20px;
     margin-bottom: 10px;
     font-size: 25px;
 }

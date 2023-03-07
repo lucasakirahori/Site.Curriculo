@@ -9,3 +9,4 @@
 
 linkando o HTML com o CSS colocando a tag "link" no arquivo index.
 
+1.2 Criando o CSS para a página principal e copiando para as demais páginas com conteúdo. 
