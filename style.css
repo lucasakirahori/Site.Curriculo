@@ -3,6 +3,10 @@
     padding: 20px;
 }
 
+header a:hover{
+    color: green;
+}
+
 body{
     color: aliceblue;
     background-color: black;
@@ -55,7 +59,6 @@ footer .contatos{
 }
 
 footer .h3{
-    font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -69,4 +72,8 @@ footer .github{
     display: flex;
     justify-content:center;
     text-align: center;
+}
+
+footer figure:hover{
+    box-shadow: 0px 0px 5px yellow;
 }
