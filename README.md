@@ -1,4 +1,4 @@
-# Meu site em HTML e CSS - P/ visualizar 
+# Site-curriculo em HTML e CSS - P/ visualizar 
 
 
 1. Abrindo a estrutura do HTML digitando "html :5";
