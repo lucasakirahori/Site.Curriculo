@@ -59,8 +59,7 @@ section{
 main img{
     width: 500px;
     height: 450px;
-    border: 2px solid grey;
-    border-radius: 5%;
+    border: 5px solid grey;
 }
 
 .main-container{
