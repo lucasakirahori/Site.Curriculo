@@ -1,5 +1,6 @@
-# Site-curriculo em HTML e CSS - P/ visualizar 
+# Site-curriculo em HTML e CSS - P/ visualizar https://lucasakirahori.github.io/Site_Curriculo_v2/
 
+# SOMENTE PARA DESKTOP
 
 1. Abrindo a estrutura do HTML digitando "html :5";
 2. Seguindo o processo de HTML Semântico;
