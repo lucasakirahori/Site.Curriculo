@@ -1,4 +1,4 @@
-# Site-curriculo em HTML e CSS - P/ visualizar https://lucasakirahori.github.io/Site_Curriculo_v2/
+# Site-curriculo em HTML e CSS - P/ visualizar https://lucasakirahori.github.io/Site.Curriculo/
 
 # SOMENTE PARA DESKTOP
 
